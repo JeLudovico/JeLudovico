@@ -1,9 +1,9 @@
-Olá!! Eu Sou a Jeanne, estudante de programação
+<h1 align="center"> Olá!! Me chamo Jeanne. Seja bem vinda(o) </h1>
 
 
 
 - 👩‍💻 Atualmente trabalho com java.
-- 👩‍🎓 Bacharel em análise e desenvolvimento de sistemas, estudando Java, Python, Html e Css.
+- 👩‍🎓 Estou cursando em análise e desenvolvimento de sistemas. Estudando Java, Python, Html e Css.
 
 
 <div align="center">
@@ -13,15 +13,20 @@ Olá!! Eu Sou a Jeanne, estudante de programação
 </div>
   
   
-<div style="display: inline_block"><br>
-<img align="center" alt="Je-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Je-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Je-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Je-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    
+  </p>
   
+
 </div>
  <br/>
    <br/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeLudovico" alt="Jeanne" /> </p>
  
 <div> 
   <a href="https://www.instagram.com/__jeeane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
