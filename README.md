@@ -3,7 +3,7 @@ Olá!! Eu Sou a Jeanne, estudante de programação
 
 
 - 👩‍💻 Atualmente trabalho com java
-- 👩‍🎓 Estou estudando Java, Python e Html/Css
+- 👩‍🎓 Bacharel em análise e desenvolvimento de sistemas, estudando Java, Python e Html/Css
 
 
 <div align="center">
