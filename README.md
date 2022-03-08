@@ -3,7 +3,7 @@
 
 
 - 👩‍💻 Atualmente trabalho com java.
-- 👩‍🎓 Estou cursando em análise e desenvolvimento de sistemas. Estudando Java, Python, Html e Css.
+- 👩‍🎓 Estou cursando análise e desenvolvimento de sistemas. Estudando Java, Python, Html e Css.
 
 
 <div align="center">
