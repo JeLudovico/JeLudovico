@@ -5,13 +5,14 @@
 - 👩‍💻 Atualmente trabalho com java.
 - 👩‍🎓 Estou cursando análise e desenvolvimento de sistemas. Estudando Java, Python, Html e Css.
 
-
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/JeLudovico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeLudovico&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeLudovico&layout=compact&langs_count=7&theme=omni"/>
 </div>
-  
+  <br/>
   
   <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
