@@ -24,7 +24,7 @@
 </div>
  <br/>
    <br/>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeLudovico" alt="Jeanne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeLudovico&color=red " alt="Profile views" /> </p>
 <div> 
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jeeane/)
