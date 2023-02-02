@@ -11,9 +11,13 @@
   <br/>
   
   <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />  
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" alt="github" width="40" height="40"/> 
+    <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40" />  
+      <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="sql" width="40" height="40"/> 
+    <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor" alt="github" width="40" height="40"/> 
+     <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/87548570/216198460-44e6a1b6-5230-42fc-83df-42aef4209b1f.png" alt="powerBi" width="105" height="35" />
+
+
 
 </div>
  <br/>
